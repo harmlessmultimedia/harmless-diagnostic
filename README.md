@@ -1,5 +1,5 @@
 HARMLESS DIOGNOSTIC
-Bridging Learning Gaps with NaCCA-Aligned AI
+(Bridging Learning Gaps with NaCCA-Aligned AI)
 
 Harmless Diagnostic is a specialized educational intelligence tool built for the UNICEF StartUp Lab Challenge. It empowers Ghanaian teachers to transform classroom assessment data into immediate, actionable remedial plans that require zero technology in the hands of students.
 
