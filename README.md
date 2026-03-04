@@ -15,7 +15,7 @@ Learning: Mapping foundation-level literacy and numeracy gaps to specific NaCCA/
 ✨ Key Features
 Re-entry Diagnostics: Instantly identifies the correct entry level for out-of-school children based on observed skills.
 
-Foundation Gap Analysis: Helps upper-level teachers remediate JHS/SHS students who missed primary-school basics.
+Foundation Gap Analysis: Helps upper-level teachers remediate JHS/SHS, and TVET students who missed primary-school basics.
 
 Zero-Tech Remediation: All generated activities use locally available materials (pebbles, bottle caps, oral rhymes) for low-resource environments.
 
