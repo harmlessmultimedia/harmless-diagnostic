@@ -1,5 +1,6 @@
-Harmless Diagnostic 🇬🇭
-Tracking Enrolment, Retention, and Learning with NaCCA-Aligned AI
+Harmless Diagnostic
+(Tracking Enrolment, Retention, and Learning with NaCCA-Aligned AI)
+
 Harmless Diagnostic is a dual-purpose educational intelligence tool built for the UNICEF StartUp Lab Challenge. It empowers Ghanaian educators to manage the successful re-entry of out-of-school children and identify foundational learning gaps in JHS, SHS, and TVET classrooms.
 
 🚀 The Mission
