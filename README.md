@@ -1,30 +1,28 @@
-HARMLESS DIOGNOSTIC
-(Bridging Learning Gaps with NaCCA-Aligned AI)
+Harmless Diagnostic 🇬🇭
+Tracking Enrolment, Retention, and Learning with NaCCA-Aligned AI
+Harmless Diagnostic is a dual-purpose educational intelligence tool built for the UNICEF StartUp Lab Challenge. It empowers Ghanaian educators to manage the successful re-entry of out-of-school children and identify foundational learning gaps in JHS, SHS, and TVET classrooms.
 
-Harmless Diagnostic is a specialized educational intelligence tool built for the UNICEF StartUp Lab Challenge. It empowers Ghanaian teachers to transform classroom assessment data into immediate, actionable remedial plans that require zero technology in the hands of students.
+🚀 The Mission
+Our goal is to support the three pillars of the UNICEF educational challenge:
 
-🚀 The Problem
-With large class sizes, often exceeding 40 students, teachers struggle to identify exactly why students are failing specific strands of the Standards-Based Curriculum. Traditional remedial tools often require internet access or tablets, which are unavailable in many rural Ghanaian classrooms.
+Enrolment: Providing rapid placement diagnostics for children returning to school.
 
-✨ Our Solution
-"Harmless Diagnostic empowers JHS, SHS, and TVET educators to identify literacy and numeracy gaps in students who have entered higher levels without mastering foundational primary-school concepts."
+Retention: Generating remedial plans that reduce the "frustration gap" and prevent future dropouts.
 
-Precise Diagnostic Summaries: Instantly identifies the cognitive block preventing student progress.
+Learning: Mapping foundation-level literacy and numeracy gaps to specific NaCCA/GES competencies.
 
-NaCCA Alignment: Directly maps every learning gap to specific Ghana Education Service (GES) competencies.
+✨ Key Features
+Re-entry Diagnostics: Instantly identifies the correct entry level for out-of-school children based on observed skills.
 
-Zero-Tech Remedial Activities: Generates step-by-step lesson plans that use locally available materials (like pebbles, bottle caps, and oral rhymes), making the solution accessible to every school in Ghana.
+Foundation Gap Analysis: Helps upper-level teachers remediate JHS/SHS students who missed primary-school basics.
 
-Rapid Offline Assessments: Provides 5-minute verbal or practical checks to verify that the learning gap has been closed.
+Zero-Tech Remediation: All generated activities use locally available materials (pebbles, bottle caps, oral rhymes) for low-resource environments.
+
+Rapid Tracking: Provides 5-minute offline assessments to verify that learning and retention targets are being met.
 
 🛠️ Tech Stack
 Frontend: Streamlit
 
 Intelligence: Google Gemini 2.5 Flash API
 
-Framework: Python
-
 Deployment: Streamlit Community Cloud
-
-📅 Road to March 6th
-This project is a core pillar of the Harmless Software Hub ecosystem, aiming to digitize and improve learning outcomes across Ghana by the March 6, 2026 submission deadline.
