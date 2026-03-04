@@ -7,7 +7,7 @@ Harmless Diagnostic is a specialized educational intelligence tool built for the
 With large class sizes, often exceeding 40 students, teachers struggle to identify exactly why students are failing specific strands of the Standards-Based Curriculum. Traditional remedial tools often require internet access or tablets, which are unavailable in many rural Ghanaian classrooms.
 
 ✨ Our Solution
-Harmless Diagnostic uses a specialized implementation of the Gemini 2.5 Flash model to analyze teacher observations and classroom performance. It bridges the gap by providing:
+"Harmless Diagnostic empowers JHS, SHS, and TVET educators to identify literacy and numeracy gaps in students who have entered higher levels without mastering foundational primary-school concepts."
 
 Precise Diagnostic Summaries: Instantly identifies the cognitive block preventing student progress.
 
